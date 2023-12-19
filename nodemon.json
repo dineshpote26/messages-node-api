@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "dinesh",
+        "MONGO_PASSWORD": "dinesh",
+        "MONGO_DEFAULT_DATABASE": "messages",
+        "PORT": "8080",
+        "SECRET_PUBLIC_KEY": "somesupersecrete"
+    }
+}
